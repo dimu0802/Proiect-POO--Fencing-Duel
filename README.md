@@ -51,8 +51,11 @@ ACTIUNI si PUNCTARE
 In continuare, definim cele trei ACTIUNI din MOMENTUL DE LUPTA: 
 
 ATAC – lovitura rapida 
+
 OCOLIRE DE PARADA – atac inselator 
+
 PARADA – apara care poate fi dejucata 
+
 Fiecare jucator isi va alege in acest moment in acest moment. In functie de ce alege fiecare, vor fi 6 situatiii separate. 
 
 Le explicam:  
@@ -61,7 +64,7 @@ Le explicam:
 
 -Daca atat P1 cat si P2 aleg PARADA, cei doi vor face cate un pas inapoi, deoarece nu au aratat intentia de a ataca. 
 
-- Daca atat P1 cat si P2 aleg OCOLIRE DE PARADA, ambii vor puncta si vor primi cate un punct. Se revine la pozitia initiala. 
+-Daca atat P1 cat si P2 aleg OCOLIRE DE PARADA, ambii vor puncta si vor primi cate un punct. Se revine la pozitia initiala. 
 
 -Daca P1 alege ATAC si P2 alege PARADA, P2 castiga un punct, deoarece a ghicit intentia lui P1 de a ataca. Se revina la pozitia initiala. 
 
