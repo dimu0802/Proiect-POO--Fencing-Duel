@@ -8,6 +8,7 @@ int main() {
     std::array<int, 100> v{};
     int nr;
     std::cout << "Introduceți nr: ";
+    std::cout<<"test";
     /////////////////////////////////////////////////////////////////////////
     /// Observație: dacă aveți nevoie să citiți date de intrare de la tastatură,
     /// dați exemple de date de intrare folosind fișierul tastatura.txt
