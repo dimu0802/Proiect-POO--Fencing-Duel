@@ -55,4 +55,12 @@ void Jucator::revenire_pozitie_initiala(int pozitie_initiala){
     pozitie=pozitie_initiala;
 }
 
+bool Jucator::verificare_pozitie_capat(){
+    int poz=pozitie_actuala();
+    if(poz==0 || poz==11){
+        return true;
+    }
+    else return false;
+}
+
 Jucator::~Jucator(){}
