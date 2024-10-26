@@ -33,6 +33,7 @@ public:
             os<<"Jucator: "<<player.nume<<", pozitie: "<<player.pozitie<<", numar de puncte: "<<player.numar_puncte<<"\n";
             return os;
         }
+    bool verificare_pozitie_capat();
     ~Jucator();
 };
 
